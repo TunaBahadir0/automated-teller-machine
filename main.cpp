@@ -1,13 +1,5 @@
-///////////////////////////////////     Automated Teller Machine     ///////////////////////////////////  
-/*
-COSC 3304
-Moiz Ahmed
+  
 
-TEAM MEMBERS:
-Brian Ruiz
-Kaleab Teka
-Sebastian Maya
-*/
 
 #include <iostream>
 #include <string>
